@@ -2,7 +2,7 @@
 
 The knapsack problem involves being given a list of objects, values, weights, and a weight limit, outputs the combination of objects that yields the highest value, without exceeding the weight limit.
 The a format of the input is in a txt file as follows:
-NumberofItems <br />
+<br />NumberofItems <br />
 Name0 Value0 Weight0<br />
 Name1 Value1 Weight1<br />
 ...<br />
