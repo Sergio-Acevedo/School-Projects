@@ -1,4 +1,4 @@
-##Truth Table project
+## Truth Table project
 
 Given a circuit representation, the program outputs a truth table based off of all possible inputs. Listing all possible gates once in this case, the input format is in a txt file as follows:<br />
 INPUT NumberofInputs IN0 IN1 ... INn-1<br />
