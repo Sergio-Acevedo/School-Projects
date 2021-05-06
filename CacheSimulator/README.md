@@ -8,4 +8,4 @@ Execution of the program abides by the following format:<br />
 ./cachesim.exe Cachesize Mappingmethod fifo Blocksize txtfile<br />
 Sample execution:<br />
 ./cachesim.exe 512 assoc:4 fifo 8 trace2.txt<br />
-The three support mapping methods are direct mapping("direct"), n-way associative mapping("assoc:n" where n is a power of 2), and fully associative("assoc").
+The three supported mapping methods are direct mapping("direct"), n-way associative mapping("assoc:n" where n is a power of 2), and fully associative("assoc").
