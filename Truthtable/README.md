@@ -15,4 +15,4 @@ DECODER NumberofInputs Input0 Input1 ... Inputn-1 (2^NumberofInputs)NumberofOutp
 Execution of the program abides by the following format:<br />
 ./Truthtable.exe txtfile<br />
 Sample execution:<br />
-./Truthtable.exe tet.1.09.txt<br />
+./Truthtable.exe test.1.09.txt<br />
