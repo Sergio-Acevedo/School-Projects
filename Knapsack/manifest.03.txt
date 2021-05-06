@@ -1,0 +1,11 @@
+10
+Apple       10  14
+Bananna      9  18
+Cherry       2   5
+Diamond      2 100
+Eggplant    15  30
+Frankfurter  5  30
+Grape        2   3
+Havarti      7  14
+Ice_cream   20 100
+Juice       20  30
