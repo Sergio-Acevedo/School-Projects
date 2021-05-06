@@ -11,7 +11,7 @@ Namen-1 Valuen-1 Weightn-1<br />
 Execution of the program abides by the following format:<br />
 ./Knapsack.exe maximumweight txtfile<br />
 
-Sample execution: 
+Sample execution:<br />
 ./Knapsack.exe 75 manifest.04.txt
 
 The output is a list of the selected items, followed by their collective value, and the maximum weight limit.
