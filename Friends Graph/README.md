@@ -16,4 +16,4 @@ Sample graph visualization:<br /><pre>
 	 * 	 *                           |<br />
 	 * 	 *                           |<br />
 	 * 	 *      (rich,ucla)---(tom,ucla)<br />
-	 * 	 <\pre>
+	 * 	 
