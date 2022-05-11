@@ -1,0 +1,1 @@
+Mini programming language with lexical analyzer to identify token types, parser to check for correct formatting/arguments, and an interpreter to execute the code.
